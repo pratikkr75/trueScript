@@ -32,9 +32,3 @@ The primary objective of this project is to develop a robust machine learning mo
 
 **After testing on unseen 10% data, BERT Model performed best with accuracy of 97.13%**
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/ai-human-text-classification.git
